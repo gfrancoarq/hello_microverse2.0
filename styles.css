@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* Ajusta la altura del contenedor según tus necesidades */
+}
+
+h1 {
+  font-size: 60px;
+  color: white;
+  font-family: 'Monserrat', sans-serif;
+  font-weight: 600;
+}
