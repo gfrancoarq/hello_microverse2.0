@@ -3,9 +3,6 @@
 
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
   <h3><b>Hello Microverse Project</b></h3>
 
@@ -31,8 +28,6 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Hello Microverse Project] <a name="about-project"></a>
-
-> Describe your project in 1 or 2 sentences.
 
 **[Hello Microverse Project]** is an academic exercise consisting of an HTML file and a CSS file. The main objective is to create a simple web page that displays a title "Hello Microverse Project". The CSS file is used to apply custom styles to the title and give it an appealing visual appearance. The project was developed in two separate branches to manage changes and versions, linters were configured to ensure code quality, and it was uploaded to the GitHub repository to facilitate collaboration and track progress.
 
@@ -109,13 +104,11 @@ Now you have a local copy of the project set up on your machine and can start wo
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/gfrancoarq)
-- Twitter: [@twitterhandle](https://twitter.com/Gfrancoarq)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/gustavfranco)
+- GitHub: [@gfrancoarq](https://github.com/gfrancoarq)
+- Twitter: [@gfrancoarq](https://twitter.com/Gfrancoarq)
+- LinkedIn: [gustavfranco](https://linkedin.com/in/gustavfranco)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,8 +124,6 @@ Feel free to check the [issues page](../../issues/).
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
 
 If you like this project, we invite you to join us in supporting our project and making a difference. Your support is crucial in driving our mission forward and creating positive change. Whether it's through sharing our project with others, providing valuable feedback, or collaborating with us, every action you take can have a significant impact. Together, let's make a lasting difference and create a better future. Thank you for your support!
 
